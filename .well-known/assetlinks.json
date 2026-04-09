@@ -1,1 +1,11 @@
-
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.mojarrabat.app",
+      "sha256_cert_fingerprints":
+        ["AF:79:71:7E:3B:91:BA:AB:6C:BA:8F:4A:DA:19:05:3C:A7:49:1B:95:78:1C:B2:CC:C8:06:EE:2E:CF:00:60:17"]
+    }
+  }
+]
